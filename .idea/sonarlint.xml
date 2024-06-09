@@ -3,7 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
-        <entry key="sql-generator" value="untitled" />
+        <entry key="simple-sql-generator" value="untitled" />
       </map>
     </option>
   </component>

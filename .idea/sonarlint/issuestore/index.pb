@@ -13,3 +13,5 @@ Osrc/main/java/com/javathinked/reflection/repository/SimpleCrudQueryBuilder.java
 Zsrc/main/java/com/javathinked/reflection/repository/exception/TypeReflectionException.java,c\0\c05706a6e843d6ff292304a4fc1df711d6a8cb0e
 ƒ
 Ssrc/test/java/com/javathinked/reflection/repository/SimpleCrudQueryBuilderTest.java,f\7\f770d52725d0e3c19a4a71bace03235af6c46a6b
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
